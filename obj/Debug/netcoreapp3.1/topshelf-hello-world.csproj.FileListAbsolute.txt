@@ -1,0 +1,12 @@
+E:\WORKSPACE_DEV\csharp\topshelf\topshelf\bin\Debug\netcoreapp3.1\topshelf-hello-world.exe
+E:\WORKSPACE_DEV\csharp\topshelf\topshelf\bin\Debug\netcoreapp3.1\topshelf-hello-world.deps.json
+E:\WORKSPACE_DEV\csharp\topshelf\topshelf\bin\Debug\netcoreapp3.1\topshelf-hello-world.runtimeconfig.json
+E:\WORKSPACE_DEV\csharp\topshelf\topshelf\bin\Debug\netcoreapp3.1\topshelf-hello-world.runtimeconfig.dev.json
+E:\WORKSPACE_DEV\csharp\topshelf\topshelf\bin\Debug\netcoreapp3.1\topshelf-hello-world.dll
+E:\WORKSPACE_DEV\csharp\topshelf\topshelf\bin\Debug\netcoreapp3.1\topshelf-hello-world.pdb
+E:\WORKSPACE_DEV\csharp\topshelf\topshelf\obj\Debug\netcoreapp3.1\topshelf-hello-world.csprojAssemblyReference.cache
+E:\WORKSPACE_DEV\csharp\topshelf\topshelf\obj\Debug\netcoreapp3.1\topshelf-hello-world.AssemblyInfoInputs.cache
+E:\WORKSPACE_DEV\csharp\topshelf\topshelf\obj\Debug\netcoreapp3.1\topshelf-hello-world.AssemblyInfo.cs
+E:\WORKSPACE_DEV\csharp\topshelf\topshelf\obj\Debug\netcoreapp3.1\topshelf-hello-world.dll
+E:\WORKSPACE_DEV\csharp\topshelf\topshelf\obj\Debug\netcoreapp3.1\topshelf-hello-world.pdb
+E:\WORKSPACE_DEV\csharp\topshelf\topshelf\obj\Debug\netcoreapp3.1\topshelf-hello-world.genruntimeconfig.cache
